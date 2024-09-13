@@ -29,3 +29,7 @@ pip install -r requirements.txt
 scrapy runspider audible_changing_user_agent.py -o output_audible_changing_user_agent.csv
 scrapy runspider worldometers_scraping_data_from_multiple_links.py -o output_worldometers_scraping_data_from_multiple_links.json
 ```
+
+Output files are:
+- output_audible_changing_user_agent.csv
+- output_worldometers_scraping_data_from_multiple_links.json
